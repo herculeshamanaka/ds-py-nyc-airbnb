@@ -3,9 +3,11 @@
 
 
 # New York City Airbnb Data Analysis
-In this project I'm using an Airbnb file for NYC. It's a summarized version but it's possible to have some insights already. The analysis was made using Jupyter notebook.
+In this project I'm using an Airbnb file for NYC. It's a summarized file version but it's possible to have some insights already. The analysis was made using Jupyter notebook.
 
 I tried to extract the most relevant topics at a first look into the dataset.
+
+Some relevant data regarding NYC neighbourhood was also extracted from the [NYC Open Data](https://opendata.cityofnewyork.us/). 
 
 What you mind find in this notebook:
 <div>  
