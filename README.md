@@ -11,7 +11,7 @@ I tried to extract the most relevant topics at a first look into the dataset.
 
 Some relevant data regarding NYC neighbourhood was also extracted from the [NYC Open Data](https://opendata.cityofnewyork.us/). 
 
-What you mind find in this notebook:
+What stack/framework/lib you may find in this notebook:
 <div>  
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
