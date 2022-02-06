@@ -9,7 +9,9 @@ In this project I'm using an Airbnb file for NYC. It's a summarized file version
 
 I tried to extract the most relevant topics at a first look into the dataset.
 
-Some relevant data regarding NYC neighbourhood was also extracted from the [NYC Open Data](https://opendata.cityofnewyork.us/). 
+Some relevant data regarding NYC neighbourhood was also extracted from the [NYC Open Data](https://opendata.cityofnewyork.us/).
+
+There is also some cool map features to check.
 
 What stack/framework/lib you may find in this notebook:
 <div>  
@@ -18,3 +20,8 @@ What stack/framework/lib you may find in this notebook:
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white" />
 </div>  
+
+## Accessing the notebook
+There are two ways of accesing the notebook: 
+* [Google Colab](https://bit.ly/3rtgx3C)
+* [GitHub Repo](https://bit.ly/3JaPu37)
